@@ -10,3 +10,4 @@ gis
 lot
 goot
 gtr
+gist
