@@ -32,3 +32,4 @@ bun
 comi
 talo
 wiiy
+wnni
