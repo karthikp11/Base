@@ -30,3 +30,4 @@ win
 sooi
 bun
 comi
+talo
